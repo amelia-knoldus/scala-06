@@ -14,3 +14,8 @@ a. Create two User [Customer and Admin]
 b. List all users  
 c. Update UserName of Admin  
 d. Delete Customer
+
+## To run locally
+`sbt clean coverage test`  
+`sbt coverageReport`   
+`sbt run`  
